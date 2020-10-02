@@ -1,0 +1,53 @@
+h1,h4{
+    text-align: center;
+    }
+    .body{
+        margin: 30px;
+ 
+    }
+    .bor{
+        border: solid;
+        
+    }
+    .menu{
+
+        background-color: green;
+        padding: 20px;
+        font-size: 20px;
+        font-family: sans-serif;
+        color: #ffffff;
+    }
+    .grid{
+        border: 2px solid #000000;
+        border-radius: solid;
+        background-color: blueviolet;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .origami{
+        border-radius: 20px;
+        background-color: #ffffff;
+        padding :30px;
+        margin: 25px;
+        width: 310px;
+        font-family: fantasy;
+    }
+p{text-align: center;}
+    h4{
+    text-align: center;
+    background-color: orange;  
+    }
+    .header{
+        background-color: blue;
+        display: flex;  
+        justify-content: space-between; 
+    }
+
+.item:hover img{
+     opacity: 0.6;
+    } 
+ 
+.item:hover ul{
+    opacity: .78;
+   }    
